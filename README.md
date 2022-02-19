@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @xRubyIsCute
-- 👀 I’m interested in HTML, Python, CSS, C/C+, C#, Java, Jupyter, PHP, Ruby
-- 🌱 I’m currently learning HTML, CSS, Java & Python
+- 👋 Hi, I’m @xRubyIsCute;
+- 👀 I’m interested in HTML, PHP, MySQL, Python, CSS, C/C++, C#, Java;
+- 🌱 I’m currently learning HTML, CSS, Java & Python.
